@@ -16,9 +16,9 @@ public class FirstProjApplication {
 		
 		a1.show();
 		
-		Alien a2 = context.getBean(Alien.class);
-		
-		a2.show();
+//		Alien a2 = context.getBean(Alien.class);
+//		
+//		a2.show();
 		
 		
 	}
